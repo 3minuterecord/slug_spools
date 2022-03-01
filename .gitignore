@@ -2,3 +2,4 @@
 *.keyxm
 *.bat
 .ipynb_checkpoints
+*.mplt
