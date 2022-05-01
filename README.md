@@ -1,6 +1,8 @@
 # Slugging & Multi-planar Spools - An ML Approach
 **Goal** Predict Non-linear Structural Response using Machine Learning. 
 <br/> <br/>
+<img src="mp_spool.png" width="500">
+<br/> <br/>
 The following Python jupyter notebooks contain the final code created for this project. The notebooks are sequentially numbered based on the order in which they are run to recreate the solution. **Caution:** Many of the functions have long run times.
 - 1_create_fea_gen_files.ipynb
   - This notebook programmatically creates the **keyword** and **batch** files required to run the slugging analysis of the multi-planar spool configuration in **Flexcom** (the physics-based finite element analysis software). The results of the 50,000 simulations are post-processed using the next notebook.
